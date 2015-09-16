@@ -27,3 +27,17 @@ To search for the `bowtie2` package specifically within this and __only this__ c
 ```bash
 conda search -c THIS_REPO_URL --override-channels bowtie2
 ```
+
+### Repo packages
+
+Most packages will exist only for 64 bit linux because that is what I generally use.
+But if you know me and I like you, feel free to request a specific build architecture.
+If I can accommodate you, I will.
+
+Here are the files hosted for various architectures:
+
+- [linux-32](pkgs/channel/linux-32)
+- [linux-64](pkgs/channel/linux-64)
+- [osx-64](pkgs/channel/osx-64)
+- [win-32](pkgs/channel/win-32)
+- [win-64](pkgs/channel/win-64)
