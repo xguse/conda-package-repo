@@ -63,6 +63,21 @@
       "subdir": "linux-64",
       "version": "0.6.1"
     },
+    "git-2.4.6-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "openssl",
+        "zlib"
+      ],
+      "license": "GPL v2 and LGPL 2.1",
+      "md5": "1d0eae920121521a9d4dcb4b4e901dab",
+      "name": "git",
+      "sig": null,
+      "size": 93176204,
+      "subdir": "linux-64",
+      "version": "2.4.6"
+    },
     "gitdb-0.6.4-py27_0.tar.bz2": {
       "build": "py27_0",
       "build_number": 0,
