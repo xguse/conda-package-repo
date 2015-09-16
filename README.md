@@ -20,7 +20,7 @@ This site and associated github repo ([Conda-package-repo](https://github.com/xg
 
 #### Searching for packages on this channel specifically
 
-To search for the `bowtie2` package specifically within _this and __only__ this_ channel:
+To search for the `bowtie2` package specifically within this and __only this__ channel:
 
 ```bash
 conda search -c THIS_REPO_URL --override-channels bowtie2
