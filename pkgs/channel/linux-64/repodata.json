@@ -1,0 +1,19 @@
+{
+  "info": {},
+  "packages": {
+    "bowtie2-2.2.6-py27_0.tar.bz2": {
+      "build": "py27_0",
+      "build_number": 0,
+      "depends": [
+        "python 2.7*"
+      ],
+      "license": "GLP3 License",
+      "md5": "fd5aa9a433ed636205320204b55a1bdb",
+      "name": "bowtie2",
+      "sig": null,
+      "size": 9178334,
+      "subdir": "linux-64",
+      "version": "2.2.6"
+    }
+  }
+}
