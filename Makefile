@@ -1,4 +1,6 @@
 
+all: index dir_listings
+
 index:
 	conda index \
 	pkgs/channel/linux-32 \
@@ -7,3 +9,5 @@ index:
 	pkgs/channel/win-32 \
 	pkgs/channel/win-64
 
+dir_listings:
+	./update-dir-indexes.sh
