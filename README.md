@@ -7,17 +7,17 @@ This site and associated github repo ([Conda-package-repo](https://github.com/xg
 
 #### Adding the channel to your conda config
 
-1. run `conda config --add channels THIS_REPO_URL` to prepend the repo to your channel list.
+1. run `conda config --add channels http://xguse.github.io/conda-package-repo/pkgs/channel/` to prepend the repo to your channel list.
 2. if you get an error complaining that the yaml file can not be parsed, you have two options:  
     a. open the file in your favorite text editor and add the channel URL to the YAML list named 'channels'
 
     ```YAML
     channels:
-      - THIS_REPO_URL
+      - http://xguse.github.io/conda-package-repo/pkgs/channel/
       - defaults
     ```  
 
-    b. run `conda config -f --add channels THIS_REPO_URL` which will remove the incorrect formatting and any comments present, then add the channel.
+    b. run `conda config -f --add channels http://xguse.github.io/conda-package-repo/pkgs/channel/` which will remove the incorrect formatting and any comments present, then add the channel.
 
 
 #### Searching for packages on this channel specifically
@@ -25,7 +25,7 @@ This site and associated github repo ([Conda-package-repo](https://github.com/xg
 To search for the `bowtie2` package specifically within this and __only this__ channel:
 
 ```bash
-conda search -c THIS_REPO_URL --override-channels bowtie2
+conda search -c http://xguse.github.io/conda-package-repo/pkgs/channel/ --override-channels bowtie2
 ```
 
 ### Repo packages
