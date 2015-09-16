@@ -2,3 +2,5 @@ pkgs/channel/src_cache
 pkgs/channel/test-tmp_dir
 pkgs/channel/work
 pkgs/channel/prefix_files.txt
+pkgs/channel/broken/
+pkgs/channel/git_cache/
