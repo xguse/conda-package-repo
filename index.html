@@ -33,16 +33,16 @@
 <a id="adding-the-channel-to-your-conda-config" class="anchor" href="#adding-the-channel-to-your-conda-config" aria-hidden="true"><span class="octicon octicon-link"></span></a>Adding the channel to your conda config</h4>
 
 <ol>
-<li>run <code>conda config --add channels THIS_REPO_URL</code> to prepend the repo to your channel list.</li>
+<li>run <code>conda config --add channels http://xguse.github.io/conda-package-repo/pkgs/channel/</code> to prepend the repo to your channel list.</li>
 <li>
 <p>if you get an error complaining that the yaml file can not be parsed, you have two options:<br>
 a. open the file in your favorite text editor and add the channel URL to the YAML list named 'channels'</p>
 
 <div class="highlight highlight-source-yaml"><pre><span class="pl-s"><span class="pl-ent">channels:</span></span>
-  <span class="pl-s">- <span class="pl-s">THIS_REPO_URL</span></span>
+  <span class="pl-s">- <span class="pl-s">http://xguse.github.io/conda-package-repo/pkgs/channel/</span></span>
   <span class="pl-s">- <span class="pl-s">defaults</span></span></pre></div>
 
-<p>b. run <code>conda config -f --add channels THIS_REPO_URL</code> which will remove the incorrect formatting and any comments present, then add the channel.</p>
+<p>b. run <code>conda config -f --add channels http://xguse.github.io/conda-package-repo/pkgs/channel/</code> which will remove the incorrect formatting and any comments present, then add the channel.</p>
 </li>
 </ol>
 
@@ -51,7 +51,7 @@ a. open the file in your favorite text editor and add the channel URL to the YAM
 
 <p>To search for the <code>bowtie2</code> package specifically within this and <strong>only this</strong> channel:</p>
 
-<div class="highlight highlight-source-shell"><pre>conda search -c THIS_REPO_URL --override-channels bowtie2</pre></div>
+<div class="highlight highlight-source-shell"><pre>conda search -c http://xguse.github.io/conda-package-repo/pkgs/channel/ --override-channels bowtie2</pre></div>
 
 <h3>
 <a id="repo-packages" class="anchor" href="#repo-packages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Repo packages</h3>
