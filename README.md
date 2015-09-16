@@ -1,6 +1,8 @@
 ### Welcome to Gus Dunn's Conda-package-repo
 This site and associated github repo ([Conda-package-repo](https://github.com/xguse/conda-package-repo)) are in the public domain. Note that this statement does _not_ reflect __in any way, shape or form__ the licenses of the packages therein.  Each package has its own associated license and you are bound by the terms of each you download and/or use.
 
+***
+
 ### Using this conda repo channel
 
 #### Adding the channel to your conda config
