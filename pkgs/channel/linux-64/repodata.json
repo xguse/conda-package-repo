@@ -248,15 +248,17 @@
       "build": "2_gb0a99b8",
       "build_number": 0,
       "depends": [
+        "muscle",
         "numpy",
         "python 2.7*",
-        "scipy"
+        "scipy",
+        "vsearch"
       ],
       "license": "GPL3 License",
-      "md5": "a9ecf79a30f6225b9bf0efc9865c773e",
+      "md5": "8771e3940bdcafc3b3529773a32bd7ae",
       "name": "pyrad-seq",
       "sig": null,
-      "size": 186310,
+      "size": 186313,
       "subdir": "linux-64",
       "version": "3.0.6"
     },
