@@ -302,12 +302,12 @@
       "vsearch"
     ], 
     "license": "GPL3 License", 
-    "md5": "8771e3940bdcafc3b3529773a32bd7ae", 
-    "mtime": 1442447051.7367516, 
+    "md5": "517ddf7a48decbf0c93975b3f56d561d", 
+    "mtime": 1442510819.273449, 
     "name": "pyrad-seq", 
     "platform": "linux", 
     "sig": null, 
-    "size": 186313, 
+    "size": 186356, 
     "subdir": "linux-64", 
     "version": "3.0.6"
   }, 
@@ -424,6 +424,23 @@
     "size": 440947, 
     "subdir": "linux-64", 
     "version": "0.1.13"
+  }, 
+  "vsearch-1.1.3-1.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "1", 
+    "build_number": 1, 
+    "depends": [
+      "zlib"
+    ], 
+    "license": "AGLP3 License", 
+    "md5": "399f96e5eece2e87133e10111219a3fc", 
+    "mtime": 1442510905.03614, 
+    "name": "vsearch", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 289936, 
+    "subdir": "linux-64", 
+    "version": "1.1.3"
   }, 
   "vsearch-1.1.3-linux_x86_64.tar.bz2": {
     "arch": "x86_64", 
