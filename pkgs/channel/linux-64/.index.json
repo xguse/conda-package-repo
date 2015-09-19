@@ -16,6 +16,36 @@
     "subdir": "linux-64", 
     "version": "1.4.0"
   }, 
+  "bcftools-1.2-1.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "1", 
+    "build_number": 1, 
+    "depends": [], 
+    "license": "MIT", 
+    "md5": "938a0cb13cd7b55acf11c99a5fdd1597", 
+    "mtime": 1442688125.2963624, 
+    "name": "bcftools", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 1476554, 
+    "subdir": "linux-64", 
+    "version": "1.2"
+  }, 
+  "bedtools-2.25.0-1.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "1", 
+    "build_number": 1, 
+    "depends": [], 
+    "license": "GPL2", 
+    "md5": "db163cfe54b1f4191aca4f9b21759506", 
+    "mtime": 1442685319.2733104, 
+    "name": "bedtools", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 783713, 
+    "subdir": "linux-64", 
+    "version": "2.25.0"
+  }, 
   "bowtie2-2.2.6-py27_0.tar.bz2": {
     "arch": "x86_64", 
     "build": "py27_0", 
@@ -128,6 +158,21 @@
     "size": 429313, 
     "subdir": "linux-64", 
     "version": "1.0.1"
+  }, 
+  "hmmer-3.1b2-1.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "1", 
+    "build_number": 1, 
+    "depends": [], 
+    "license": "GPL3", 
+    "md5": "e5f7d7e93e4be728bbda9482c5fff73f", 
+    "mtime": 1442689101.1194232, 
+    "name": "hmmer", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 6005438, 
+    "subdir": "linux-64", 
+    "version": "3.1b2"
   }, 
   "htslib-1.2.1-0.tar.bz2": {
     "arch": "x86_64", 
@@ -356,6 +401,21 @@
     "size": 17392, 
     "subdir": "linux-64", 
     "version": "0.1.2"
+  }, 
+  "samtools-1.2-1.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "1", 
+    "build_number": 1, 
+    "depends": [], 
+    "license": "MIT", 
+    "md5": "08b2ee9e60cf1097b0bf0f1e80018af4", 
+    "mtime": 1442687997.3387065, 
+    "name": "samtools", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 1267410, 
+    "subdir": "linux-64", 
+    "version": "1.2"
   }, 
   "smmap-0.9.0-py27_0.tar.bz2": {
     "arch": "x86_64", 
