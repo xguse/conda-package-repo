@@ -65,6 +65,18 @@
       "subdir": "linux-64",
       "version": "2.2.6"
     },
+    "bwa-0.7.12-1.tar.bz2": {
+      "build": "1",
+      "build_number": 1,
+      "depends": [],
+      "license": "GPL3",
+      "md5": "d2bbff98cbb181eee8a4239dbed2fb3d",
+      "name": "bwa",
+      "sig": null,
+      "size": 501759,
+      "subdir": "linux-64",
+      "version": "0.7.12"
+    },
     "datacache-0.4.14-py27_0.tar.bz2": {
       "build": "py27_0",
       "build_number": 0,
