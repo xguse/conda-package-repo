@@ -547,6 +547,21 @@
     "subdir": "linux-64", 
     "version": "1.1.3"
   }, 
+  "vsearch-1.1.3-2.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "2", 
+    "build_number": 2, 
+    "depends": [], 
+    "license": "AGLP3 License", 
+    "md5": "6fef2690f0301bf80173b721890c602a", 
+    "mtime": 1443127152.552188, 
+    "name": "vsearch", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 385518, 
+    "subdir": "linux-64", 
+    "version": "1.1.3"
+  }, 
   "vsearch-1.1.3-linux_x86_64.tar.bz2": {
     "arch": "x86_64", 
     "build": "linux_x86_64", 
