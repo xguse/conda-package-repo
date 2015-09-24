@@ -102,10 +102,10 @@
       "build_number": 1,
       "depends": [],
       "license": "GPL3",
-      "md5": "a0246c66c00ddad992dbe9f9c2cccf5c",
+      "md5": "7f3ed6bb372e2d9592964c647adbf3f8",
       "name": "fastqc",
       "sig": null,
-      "size": 9963324,
+      "size": 9963026,
       "subdir": "linux-64",
       "version": "0.11.3"
     },
