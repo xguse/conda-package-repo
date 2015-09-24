@@ -116,6 +116,21 @@
     "subdir": "linux-64", 
     "version": "0.4.14"
   }, 
+  "fastqc-0.11.3-1.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "1", 
+    "build_number": 1, 
+    "depends": [], 
+    "license": "GPL3", 
+    "md5": "a0246c66c00ddad992dbe9f9c2cccf5c", 
+    "mtime": 1443107913.8098211, 
+    "name": "fastqc", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 9963324, 
+    "subdir": "linux-64", 
+    "version": "0.11.3"
+  }, 
   "fuzzywuzzy-0.6.1-py27_0.tar.bz2": {
     "arch": "x86_64", 
     "build": "py27_0", 
