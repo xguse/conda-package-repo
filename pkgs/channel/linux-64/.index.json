@@ -204,6 +204,23 @@
     "subdir": "linux-64", 
     "version": "1.0.1"
   }, 
+  "gnureadline-6.2.5-py27_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "python 2.7*"
+    ], 
+    "license": "GNU Public License (GPL)", 
+    "md5": "aa7671830c3b1fa2cabcd8a639749bc5", 
+    "mtime": 1443202036.1345162, 
+    "name": "gnureadline", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 286501, 
+    "subdir": "linux-64", 
+    "version": "6.2.5"
+  }, 
   "hmmer-3.1b2-1.tar.bz2": {
     "arch": "x86_64", 
     "build": "1", 
@@ -418,6 +435,23 @@
     "size": 113914, 
     "subdir": "linux-64", 
     "version": "0.11.2"
+  }, 
+  "readline-6.2.5-1.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "1", 
+    "build_number": 1, 
+    "depends": [
+      "ncurses >=5.9"
+    ], 
+    "license": "GPL 3", 
+    "md5": "d6cbc82014801617297c8c5d266c6cb8", 
+    "mtime": 1443202066.9589624, 
+    "name": "readline", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 707662, 
+    "subdir": "linux-64", 
+    "version": "6.2.5"
   }, 
   "recipy-0.1.2-py27_0.tar.bz2": {
     "arch": "x86_64", 
