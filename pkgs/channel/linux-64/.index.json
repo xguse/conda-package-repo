@@ -530,6 +530,25 @@
     "subdir": "linux-64", 
     "version": "2.4"
   }, 
+  "traitlets-4.0.0-py27_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "decorator", 
+      "ipython_genutils", 
+      "python 2.7*"
+    ], 
+    "license": "Custom", 
+    "md5": "388c03e36bf0a26b58eacd080e956c53", 
+    "mtime": 1443203173.9917052, 
+    "name": "traitlets", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 92557, 
+    "subdir": "linux-64", 
+    "version": "4.0.0"
+  }, 
   "typechecks-0.0.2-py27_0.tar.bz2": {
     "arch": "x86_64", 
     "build": "py27_0", 
