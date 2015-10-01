@@ -340,6 +340,21 @@
     "subdir": "linux-64", 
     "version": "1.0.10"
   }, 
+  "pigz-2.3.3-1.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "1", 
+    "build_number": 1, 
+    "depends": [], 
+    "license": "Custom", 
+    "md5": "e2313419acd02e5e575ea51e4f729f14", 
+    "mtime": 1443706918.973097, 
+    "name": "pigz", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 92911, 
+    "subdir": "linux-64", 
+    "version": "2.3.3"
+  }, 
   "plink-1.90b3w-0.tar.bz2": {
     "arch": "x86_64", 
     "build": "0", 
@@ -371,6 +386,29 @@
     "size": 22553, 
     "subdir": "linux-64", 
     "version": "2.4"
+  }, 
+  "pybioclim-0.0.1-nppy27_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "nppy27_0", 
+    "build_number": 0, 
+    "depends": [
+      "basemap", 
+      "cython", 
+      "gdal", 
+      "gitpython", 
+      "matplotlib", 
+      "numpy", 
+      "python 2.7*"
+    ], 
+    "license": "custom", 
+    "md5": "25c37ef820602807960b12c484c66aed", 
+    "mtime": 1443205404.7911153, 
+    "name": "pybioclim", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 6728190, 
+    "subdir": "linux-64", 
+    "version": "0.0.1"
   }, 
   "pyensembl-0.7.0-py27_0.tar.bz2": {
     "arch": "x86_64", 
@@ -512,6 +550,23 @@
     "size": 48176, 
     "subdir": "linux-64", 
     "version": "0.9.0"
+  }, 
+  "tabulate-0.7.5-py27_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "python 2.7*"
+    ], 
+    "license": "MIT License", 
+    "md5": "778a2d403e45e5aa0fdeaff4b5bb48ee", 
+    "mtime": 1443203421.3944201, 
+    "name": "tabulate", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 31170, 
+    "subdir": "linux-64", 
+    "version": "0.7.5"
   }, 
   "tinydb-2.4-py27_0.tar.bz2": {
     "arch": "x86_64", 
