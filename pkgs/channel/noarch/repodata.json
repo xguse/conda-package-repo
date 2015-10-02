@@ -1,24 +1,20 @@
 {
   "info": {},
   "packages": {
-    "gffutils-0.8.5-py27_0.tar.bz2": {
-      "build": "py27_0",
-      "build_number": 0,
+    "arrow-0.5.4-py27_1.tar.bz2": {
+      "build": "py27_1",
+      "build_number": 1,
       "depends": [
-        "argcomplete",
-        "argh",
-        "pyfaidx",
-        "python 2.7*",
-        "simplejson",
-        "six"
+        "dateutil",
+        "python 2.7*"
       ],
-      "license": "UNKNOWN",
-      "md5": "c7d43a7ee3e89c6464581851a7765c2b",
-      "name": "gffutils",
+      "license": "Apache 2.0",
+      "md5": "21ca179d4dfb607685ef75c63c98e2e6",
+      "name": "arrow",
       "sig": null,
-      "size": 1209561,
+      "size": 43213,
       "subdir": "linux-64",
-      "version": "0.8.5"
+      "version": "0.5.4"
     },
     "pyfaidx-0.4.2-py27_0.tar.bz2": {
       "build": "py27_0",
@@ -34,6 +30,29 @@
       "size": 36502,
       "subdir": "linux-64",
       "version": "0.4.2"
+    },
+    "spartan-0.0.1-py_1.tar.bz2": {
+      "build": "py_1",
+      "build_number": 1,
+      "depends": [
+        "arrow",
+        "docopt",
+        "gffutils",
+        "munch",
+        "numpy",
+        "pandas",
+        "pyfasta",
+        "python",
+        "sanitize ==0.0.2",
+        "xlrd"
+      ],
+      "license": "MIT License",
+      "md5": "6646e3275f31afd31c9318787ae33a3d",
+      "name": "spartan",
+      "sig": null,
+      "size": 105668,
+      "subdir": "noarch",
+      "version": "0.0.1"
     }
   }
 }

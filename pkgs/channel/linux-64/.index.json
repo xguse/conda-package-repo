@@ -133,6 +133,25 @@
     "subdir": "linux-64", 
     "version": "0.4.14"
   }, 
+  "descartes-1.0.1-py27_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "matplotlib", 
+      "numpy", 
+      "python 2.7*"
+    ], 
+    "license": "BSD License", 
+    "md5": "f72b5ba3ba838697958e8e375281c747", 
+    "mtime": 1443802276.3578587, 
+    "name": "descartes", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 5507, 
+    "subdir": "linux-64", 
+    "version": "1.0.1"
+  }, 
   "fastqc-0.11.3-1.tar.bz2": {
     "arch": "x86_64", 
     "build": "1", 
@@ -185,6 +204,31 @@
     "platform": "linux", 
     "sig": null, 
     "size": 1209480, 
+    "subdir": "linux-64", 
+    "version": "0.8.5"
+  }, 
+  "gffutils-0.8.5-py27_1.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_1", 
+    "build_number": 1, 
+    "depends": [
+      "argcomplete", 
+      "argh", 
+      "biopython", 
+      "cython", 
+      "pyfaidx", 
+      "python 2.7*", 
+      "setuptools", 
+      "simplejson", 
+      "six"
+    ], 
+    "license": "MIT", 
+    "md5": "7ca651205db07ea81ba8ae2ef932bddb", 
+    "mtime": 1443804339.2379425, 
+    "name": "gffutils", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 1206679, 
     "subdir": "linux-64", 
     "version": "0.8.5"
   }, 
@@ -475,6 +519,24 @@
     "subdir": "linux-64", 
     "version": "0.7.0"
   }, 
+  "pyfasta-0.5.2-py27_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "numpy", 
+      "python 2.7*"
+    ], 
+    "license": "MIT", 
+    "md5": "ee7c414af883a59916f94529a8c57e18", 
+    "mtime": 1443745681.6485217, 
+    "name": "pyfasta", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 21654, 
+    "subdir": "linux-64", 
+    "version": "0.5.2"
+  }, 
   "pyrad-seq-3.0.6-2_gb0a99b8.tar.bz2": {
     "arch": "x86_64", 
     "build": "2_gb0a99b8", 
@@ -495,6 +557,23 @@
     "size": 186356, 
     "subdir": "linux-64", 
     "version": "3.0.6"
+  }, 
+  "pyshp-1.2.3-py27_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "python 2.7*"
+    ], 
+    "license": "MIT", 
+    "md5": "322cba38957a61375e4f22f0576c6dd7", 
+    "mtime": 1443801990.347679, 
+    "name": "pyshp", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 30043, 
+    "subdir": "linux-64", 
+    "version": "1.2.3"
   }, 
   "python-levenshtein-0.11.2-py27_0.tar.bz2": {
     "arch": "x86_64", 
@@ -574,6 +653,23 @@
     "subdir": "linux-64", 
     "version": "1.2"
   }, 
+  "sanitize-0.0.2-py27_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "python 2.7*"
+    ], 
+    "license": "Custom", 
+    "md5": "230291b05125bbe6bbba55b172dd6808", 
+    "mtime": 1443806867.4025645, 
+    "name": "sanitize", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 9849, 
+    "subdir": "linux-64", 
+    "version": "0.0.2"
+  }, 
   "smmap-0.9.0-py27_0.tar.bz2": {
     "arch": "x86_64", 
     "build": "py27_0", 
@@ -590,6 +686,32 @@
     "size": 48176, 
     "subdir": "linux-64", 
     "version": "0.9.0"
+  }, 
+  "spartan-0.0.1-20151001.3.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "20151001.3", 
+    "build_number": 1, 
+    "depends": [
+      "arrow", 
+      "docopt", 
+      "gffutils", 
+      "munch", 
+      "numpy", 
+      "pandas", 
+      "pyfasta", 
+      "python 2.7*", 
+      "sanitize ==0.0.2", 
+      "xlrd"
+    ], 
+    "license": "MIT License", 
+    "md5": "3cf54ca9467cef44300d51f3ba1ea6bc", 
+    "mtime": 1443808304.3964922, 
+    "name": "spartan", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 52698, 
+    "subdir": "linux-64", 
+    "version": "0.0.1"
   }, 
   "tabulate-0.7.5-py27_0.tar.bz2": {
     "arch": "x86_64", 
