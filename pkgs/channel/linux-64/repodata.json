@@ -137,6 +137,26 @@
       "subdir": "linux-64",
       "version": "0.6.1"
     },
+    "gffutils-0.8.5-py27_0.tar.bz2": {
+      "build": "py27_0",
+      "build_number": 0,
+      "depends": [
+        "argcomplete",
+        "argh",
+        "biopython",
+        "pyfaidx",
+        "python 2.7*",
+        "simplejson",
+        "six"
+      ],
+      "license": "UNKNOWN",
+      "md5": "8a71ef0a9f746f815067f15ae41067ad",
+      "name": "gffutils",
+      "sig": null,
+      "size": 1209480,
+      "subdir": "linux-64",
+      "version": "0.8.5"
+    },
     "git-2.4.6-0.tar.bz2": {
       "build": "0",
       "build_number": 0,
