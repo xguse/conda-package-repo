@@ -27,6 +27,20 @@
       "subdir": "linux-64",
       "version": "1.4.0"
     },
+    "argh-0.26.1-py27_0.tar.bz2": {
+      "build": "py27_0",
+      "build_number": 0,
+      "depends": [
+        "python 2.7*"
+      ],
+      "license": "GNU Library or Lesser General Public License (LGPL)",
+      "md5": "a5d80ef484410707684714331bd71315",
+      "name": "argh",
+      "sig": null,
+      "size": 51053,
+      "subdir": "linux-64",
+      "version": "0.26.1"
+    },
     "bcftools-1.2-1.tar.bz2": {
       "build": "1",
       "build_number": 1,

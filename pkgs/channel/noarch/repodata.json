@@ -1,0 +1,39 @@
+{
+  "info": {},
+  "packages": {
+    "gffutils-0.8.5-py27_0.tar.bz2": {
+      "build": "py27_0",
+      "build_number": 0,
+      "depends": [
+        "argcomplete",
+        "argh",
+        "pyfaidx",
+        "python 2.7*",
+        "simplejson",
+        "six"
+      ],
+      "license": "UNKNOWN",
+      "md5": "c7d43a7ee3e89c6464581851a7765c2b",
+      "name": "gffutils",
+      "sig": null,
+      "size": 1209561,
+      "subdir": "linux-64",
+      "version": "0.8.5"
+    },
+    "pyfaidx-0.4.2-py27_0.tar.bz2": {
+      "build": "py27_0",
+      "build_number": 0,
+      "depends": [
+        "python 2.7*",
+        "six"
+      ],
+      "license": "MIT License",
+      "md5": "7174e4c1af05db00379062990410f2a3",
+      "name": "pyfaidx",
+      "sig": null,
+      "size": 36502,
+      "subdir": "linux-64",
+      "version": "0.4.2"
+    }
+  }
+}
