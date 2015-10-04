@@ -91,6 +91,20 @@
       "subdir": "linux-64",
       "version": "0.7.12"
     },
+    "cached-property-1.2.0-py27_0.tar.bz2": {
+      "build": "py27_0",
+      "build_number": 0,
+      "depends": [
+        "python 2.7*"
+      ],
+      "license": "BSD License",
+      "md5": "ce03004a03fa88ccad53839bc4868917",
+      "name": "cached-property",
+      "sig": null,
+      "size": 6835,
+      "subdir": "linux-64",
+      "version": "1.2.0"
+    },
     "datacache-0.4.14-py27_0.tar.bz2": {
       "build": "py27_0",
       "build_number": 0,
@@ -281,6 +295,24 @@
       "size": 3835568,
       "subdir": "linux-64",
       "version": "1.2.1"
+    },
+    "luigi-1.3.0-py27_1.tar.bz2": {
+      "build": "py27_1",
+      "build_number": 1,
+      "depends": [
+        "cached-property",
+        "pyparsing",
+        "python 2.7*",
+        "python-daemon",
+        "tornado"
+      ],
+      "license": "Apache Software License",
+      "md5": "a45591c1ab7e2ad07aca77dad056805f",
+      "name": "luigi",
+      "sig": null,
+      "size": 475307,
+      "subdir": "linux-64",
+      "version": "1.3.0"
     },
     "memoized-property-1.0.2-py27_0.tar.bz2": {
       "build": "py27_0",
@@ -480,6 +512,23 @@
       "size": 30043,
       "subdir": "linux-64",
       "version": "1.2.3"
+    },
+    "python-daemon-2.0.5-py27_0.tar.bz2": {
+      "build": "py27_0",
+      "build_number": 0,
+      "depends": [
+        "docutils",
+        "lockfile >=0.10",
+        "python 2.7*",
+        "setuptools"
+      ],
+      "license": "Apache Software License",
+      "md5": "3a043c6bcfaf4ff5a2c53dacef893b76",
+      "name": "python-daemon",
+      "sig": null,
+      "size": 22382,
+      "subdir": "linux-64",
+      "version": "2.0.5"
     },
     "python-levenshtein-0.11.2-py27_0.tar.bz2": {
       "build": "py27_0",
