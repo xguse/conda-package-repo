@@ -78,6 +78,26 @@
     "subdir": "linux-64", 
     "version": "2.25.0"
   }, 
+  "blacktie-0.2.1.2-py27_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "mako", 
+      "python 2.7*", 
+      "pyyaml", 
+      "rpy2"
+    ], 
+    "license": "GPL 3", 
+    "md5": "659c0bfe4ba809879c2580f2326ecabc", 
+    "mtime": 1443975365.7615578, 
+    "name": "blacktie", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 31972, 
+    "subdir": "linux-64", 
+    "version": "0.2.1.2"
+  }, 
   "bowtie2-2.2.6-py27_0.tar.bz2": {
     "arch": "x86_64", 
     "build": "py27_0", 
