@@ -82,6 +82,29 @@
       "subdir": "linux-64",
       "version": "0.2.1.2"
     },
+    "blacktie-0.2.1.2-py27r3.2.2_2.tar.bz2": {
+      "build": "py27r3.2.2_2",
+      "build_number": 2,
+      "depends": [
+        "bowtie2",
+        "cufflinks",
+        "mako",
+        "munch",
+        "python 2.7*",
+        "pyyaml",
+        "r 3.2.2*",
+        "rpy2",
+        "sh",
+        "tophat"
+      ],
+      "license": "GPL 3",
+      "md5": "56efaef02691ad5b74c9c9b746111afe",
+      "name": "blacktie",
+      "sig": null,
+      "size": 32057,
+      "subdir": "linux-64",
+      "version": "0.2.1.2"
+    },
     "bowtie2-2.2.6-py27_0.tar.bz2": {
       "build": "py27_0",
       "build_number": 0,
@@ -121,6 +144,20 @@
       "size": 6835,
       "subdir": "linux-64",
       "version": "1.2.0"
+    },
+    "cufflinks-2.2.1-py27_1.tar.bz2": {
+      "build": "py27_1",
+      "build_number": 1,
+      "depends": [
+        "python 2.7*"
+      ],
+      "license": "Boost Software License, Version 1.0",
+      "md5": "518af071159b86edee2a8a1cb3594038",
+      "name": "cufflinks",
+      "sig": null,
+      "size": 50224633,
+      "subdir": "linux-64",
+      "version": "2.2.1"
     },
     "datacache-0.4.14-py27_0.tar.bz2": {
       "build": "py27_0",
@@ -562,6 +599,34 @@
       "subdir": "linux-64",
       "version": "0.11.2"
     },
+    "r-recommended-3.2.2-r3.2.2_0.tar.bz2": {
+      "build": "r3.2.2_0",
+      "build_number": 0,
+      "depends": [
+        "r 3.2.2",
+        "r-boot",
+        "r-class",
+        "r-cluster",
+        "r-codetools",
+        "r-foreign",
+        "r-kernsmooth",
+        "r-lattice",
+        "r-mass",
+        "r-matrix",
+        "r-mgcv",
+        "r-nlme",
+        "r-nnet",
+        "r-rpart",
+        "r-spatial",
+        "r-survival"
+      ],
+      "md5": "0ccd2a5676193e6471e74f8c929d0dd8",
+      "name": "r-recommended",
+      "sig": null,
+      "size": 745,
+      "subdir": "linux-64",
+      "version": "3.2.2"
+    },
     "readline-6.2.5-1.tar.bz2": {
       "build": "1",
       "build_number": 1,
@@ -691,6 +756,21 @@
       "size": 63053,
       "subdir": "linux-64",
       "version": "2.4"
+    },
+    "tophat-2.1.0-py27_1.tar.bz2": {
+      "build": "py27_1",
+      "build_number": 1,
+      "depends": [
+        "bowtie2",
+        "python 2.7*"
+      ],
+      "license": "Boost Software License, Version 1.0",
+      "md5": "fe83e062e2124a3e2a935a08717411cb",
+      "name": "tophat",
+      "sig": null,
+      "size": 15160474,
+      "subdir": "linux-64",
+      "version": "2.1.0"
     },
     "traitlets-4.0.0-py27_0.tar.bz2": {
       "build": "py27_0",
