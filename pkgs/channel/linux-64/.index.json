@@ -540,6 +540,21 @@
     "subdir": "linux-64", 
     "version": "2.3.3"
   }, 
+  "plink-1.90b1g-1.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "1", 
+    "build_number": 1, 
+    "depends": [], 
+    "license": "GLP3 License", 
+    "md5": "1e8985f59ecd5f7f3c24a338eed52781", 
+    "mtime": 1444252484.674597, 
+    "name": "plink", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 1857504, 
+    "subdir": "linux-64", 
+    "version": "1.90b1g"
+  }, 
   "plink-1.90b3w-0.tar.bz2": {
     "arch": "x86_64", 
     "build": "0", 
