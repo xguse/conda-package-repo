@@ -264,6 +264,27 @@
     "subdir": "linux-64", 
     "version": "0.6.1"
   }, 
+  "gcc-5-5.2.0-0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "0", 
+    "build_number": 0, 
+    "depends": [
+      "cloog 0.18.0", 
+      "gmp >=4.2", 
+      "isl", 
+      "mpc >=0.8.0", 
+      "mpfr >=2.4.0"
+    ], 
+    "license": "GPL", 
+    "md5": "81fbe12f266085e80091caf136b0a6f3", 
+    "mtime": 1444316540.600867, 
+    "name": "gcc-5", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 83140456, 
+    "subdir": "linux-64", 
+    "version": "5.2.0"
+  }, 
   "gffutils-0.8.5-py27_0.tar.bz2": {
     "arch": "x86_64", 
     "build": "py27_0", 
@@ -985,22 +1006,39 @@
     "subdir": "linux-64", 
     "version": "0.0.2"
   }, 
-  "vcftools-0.1.13-0.tar.bz2": {
+  "vcftools-0.1.13-jupiter.tar.bz2": {
     "arch": "x86_64", 
-    "build": "0", 
+    "build": "jupiter", 
     "build_number": 0, 
     "depends": [
       "htslib"
     ], 
     "license": "GNU LGPL", 
-    "md5": "c13e0d8ba58e241c391c3db2bf1cd45d", 
-    "mtime": 1442425585.890846, 
+    "md5": "06ae392ce5ca20b7ce37d5076ed65cff", 
+    "mtime": 1444310153.1200175, 
     "name": "vcftools", 
     "platform": "linux", 
     "sig": null, 
-    "size": 440947, 
+    "size": 441072, 
     "subdir": "linux-64", 
     "version": "0.1.13"
+  }, 
+  "vcftools-0.1.14-1.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "1", 
+    "build_number": 1, 
+    "depends": [
+      "htslib"
+    ], 
+    "license": "GNU LGPL", 
+    "md5": "9819ab57eeb2f92acd20323c069cdb90", 
+    "mtime": 1444333005.8378415, 
+    "name": "vcftools", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 3765560, 
+    "subdir": "linux-64", 
+    "version": "0.1.14"
   }, 
   "vsearch-1.1.3-1.tar.bz2": {
     "arch": "x86_64", 
