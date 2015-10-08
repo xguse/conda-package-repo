@@ -48,6 +48,21 @@
     "subdir": "linux-64", 
     "version": "0.26.1"
   }, 
+  "bamtools-2.4.0-1.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "1", 
+    "build_number": 1, 
+    "depends": [], 
+    "license": "MIT", 
+    "md5": "9528a34a693cdcd6b0a092ad33f97cb9", 
+    "mtime": 1444337616.8022506, 
+    "name": "bamtools", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 812439, 
+    "subdir": "linux-64", 
+    "version": "2.4.0"
+  }, 
   "bcftools-1.2-1.tar.bz2": {
     "arch": "x86_64", 
     "build": "1", 
