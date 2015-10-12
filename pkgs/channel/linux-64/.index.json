@@ -93,6 +93,23 @@
     "subdir": "linux-64", 
     "version": "2.25.0"
   }, 
+  "binaryornot-0.3.0-0_ge797740.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "0_ge797740", 
+    "build_number": 0, 
+    "depends": [
+      "python 2.7*"
+    ], 
+    "license": "BSD License", 
+    "md5": "cdac81f196a3b36e37b2b20b5e656dd0", 
+    "mtime": 1444493369.2345614, 
+    "name": "binaryornot", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 5665, 
+    "subdir": "linux-64", 
+    "version": "0.3.0"
+  }, 
   "blacktie-0.2.1.2-py27_0.tar.bz2": {
     "arch": "x86_64", 
     "build": "py27_0", 
@@ -187,6 +204,63 @@
     "size": 6835, 
     "subdir": "linux-64", 
     "version": "1.2.0"
+  }, 
+  "click-4.0-py27_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "python 2.7*"
+    ], 
+    "license": "BSD License", 
+    "md5": "1b047a90ad86ff9e4fa9d1d44f680220", 
+    "mtime": 1444493782.2497208, 
+    "name": "click", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 88761, 
+    "subdir": "linux-64", 
+    "version": "4.0"
+  }, 
+  "click-5.1-py27_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "python 2.7*"
+    ], 
+    "license": "BSD License", 
+    "md5": "06a9a4106c38ef23d88cbe3e6545f5ca", 
+    "mtime": 1444686044.129724, 
+    "name": "click", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 91621, 
+    "subdir": "linux-64", 
+    "version": "5.1"
+  }, 
+  "cookiecutter-1.1.0-0_g1b849e3.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "0_g1b849e3", 
+    "build_number": 0, 
+    "depends": [
+      "binaryornot >=0.2.0", 
+      "click >=5.0", 
+      "future >=0.15.2", 
+      "jinja2 >=2.7", 
+      "python 2.7*", 
+      "pyyaml >=3.10", 
+      "whichcraft >=0.1.1"
+    ], 
+    "license": "BSD License", 
+    "md5": "1a54398cade49ccaf0346a7d740e9e43", 
+    "mtime": 1444494224.47924, 
+    "name": "cookiecutter", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 32926, 
+    "subdir": "linux-64", 
+    "version": "1.1.0"
   }, 
   "cufflinks-2.2.1-py27_1.tar.bz2": {
     "arch": "x86_64", 
@@ -453,6 +527,24 @@
     "subdir": "linux-64", 
     "version": "1.2.1"
   }, 
+  "ipdb-0.8-py27_2.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_2", 
+    "build_number": 2, 
+    "depends": [
+      "ipython", 
+      "python 2.7*"
+    ], 
+    "license": "GPL", 
+    "md5": "1511b46799485b4d691c618ffc2ccf31", 
+    "mtime": 1444679397.7299066, 
+    "name": "ipdb", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 10512, 
+    "subdir": "linux-64", 
+    "version": "0.8"
+  }, 
   "luigi-1.3.0-py27_1.tar.bz2": {
     "arch": "x86_64", 
     "build": "py27_1", 
@@ -561,20 +653,59 @@
     "subdir": "linux-64", 
     "version": "1.0.10"
   }, 
-  "picard-1.14-0.tar.bz2": {
+  "picard-1.14-py27_1.tar.bz2": {
     "arch": "x86_64", 
-    "build": "0", 
-    "build_number": 0, 
-    "depends": [], 
+    "build": "py27_1", 
+    "build_number": 1, 
+    "depends": [
+      "click", 
+      "picard_wrap", 
+      "python 2.7*"
+    ], 
     "license": "MIT", 
-    "md5": "84ed0675ab0852ae4c83d74685bcd2ec", 
-    "mtime": 1444340376.2298024, 
+    "md5": "dc4ae4ad58a23e1a6e902091c360a8f8", 
+    "mtime": 1444680292.6870058, 
     "name": "picard", 
     "platform": "linux", 
     "sig": null, 
-    "size": 4767380, 
+    "size": 6256690, 
     "subdir": "linux-64", 
     "version": "1.14"
+  }, 
+  "picard_metapkg-1-1.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "1", 
+    "build_number": 1, 
+    "depends": [
+      "picard", 
+      "picard_wrap"
+    ], 
+    "md5": "84f6f89c5c3583675edafdc18d5eae2e", 
+    "mtime": 1444685653.041937, 
+    "name": "picard_metapkg", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 480, 
+    "subdir": "linux-64", 
+    "version": "1"
+  }, 
+  "picard_wrap-0.0.1rc1-py27_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "click", 
+      "python 2.7*"
+    ], 
+    "license": "MIT", 
+    "md5": "2e231ec145238270138fb83d8bd80090", 
+    "mtime": 1444676413.5906372, 
+    "name": "picard_wrap", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 54830, 
+    "subdir": "linux-64", 
+    "version": "0.0.1rc1"
   }, 
   "pigz-2.3.3-1.tar.bz2": {
     "arch": "x86_64", 
@@ -796,6 +927,24 @@
     "size": 113914, 
     "subdir": "linux-64", 
     "version": "0.11.2"
+  }, 
+  "pyyaml-3.11-py27_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "python 2.7*", 
+      "yaml"
+    ], 
+    "license": "MIT", 
+    "md5": "4be5c92c8a5c1c80c6482dad0ebdfdf3", 
+    "mtime": 1444493735.1413279, 
+    "name": "pyyaml", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 349514, 
+    "subdir": "linux-64", 
+    "version": "3.11"
   }, 
   "r-recommended-3.2.2-r3.2.2_0.tar.bz2": {
     "arch": "x86_64", 
@@ -1116,6 +1265,23 @@
     "size": 373857, 
     "subdir": "linux-64", 
     "version": "1.1.3"
+  }, 
+  "whichcraft-0.1.1-py27_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "python 2.7*"
+    ], 
+    "license": "BSD License", 
+    "md5": "8d0153d6632839e1b9b3a49938cb80ec", 
+    "mtime": 1444494093.8511286, 
+    "name": "whichcraft", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 4761, 
+    "subdir": "linux-64", 
+    "version": "0.1.1"
   }, 
   "wrapt-1.10.5-py27_0.tar.bz2": {
     "arch": "x86_64", 
