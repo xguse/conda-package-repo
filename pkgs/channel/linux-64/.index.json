@@ -653,6 +653,21 @@
     "subdir": "linux-64", 
     "version": "1.0.10"
   }, 
+  "picard-1.14-3.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "3", 
+    "build_number": 3, 
+    "depends": [], 
+    "license": "MIT", 
+    "md5": "5c8c667c83ded6d07e3bcf6fb9d9943a", 
+    "mtime": 1444692446.6487634, 
+    "name": "picard", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 6256411, 
+    "subdir": "linux-64", 
+    "version": "1.14"
+  }, 
   "picard-1.14-py27_1.tar.bz2": {
     "arch": "x86_64", 
     "build": "py27_1", 
@@ -724,6 +739,23 @@
     "subdir": "linux-64", 
     "version": "1"
   }, 
+  "picard_metapkg-1-3.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "3", 
+    "build_number": 3, 
+    "depends": [
+      "picard", 
+      "picard_wrap"
+    ], 
+    "md5": "a366979bfceb28dcda06b679ce0a1ee9", 
+    "mtime": 1444692564.0762947, 
+    "name": "picard_metapkg", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 480, 
+    "subdir": "linux-64", 
+    "version": "1"
+  }, 
   "picard_wrap-0.0.1rc1-py27_0.tar.bz2": {
     "arch": "x86_64", 
     "build": "py27_0", 
@@ -759,6 +791,24 @@
     "size": 55001, 
     "subdir": "linux-64", 
     "version": "0.0.1rc2"
+  }, 
+  "picard_wrap-0.0.1rc3-py27_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "click", 
+      "python 2.7*"
+    ], 
+    "license": "MIT", 
+    "md5": "2ae0d10a34c887e87f0439e999c35636", 
+    "mtime": 1444692468.3428729, 
+    "name": "picard_wrap", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 6858, 
+    "subdir": "linux-64", 
+    "version": "0.0.1rc3"
   }, 
   "pigz-2.3.3-1.tar.bz2": {
     "arch": "x86_64", 
