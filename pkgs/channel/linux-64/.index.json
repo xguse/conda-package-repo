@@ -672,6 +672,24 @@
     "subdir": "linux-64", 
     "version": "1.14"
   }, 
+  "picard-1.14-py27_2.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_2", 
+    "build_number": 2, 
+    "depends": [
+      "click", 
+      "python 2.7*"
+    ], 
+    "license": "MIT", 
+    "md5": "33b49e58a17f9ed9e5b8025f7e03c93a", 
+    "mtime": 1444686199.9854136, 
+    "name": "picard", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 6256521, 
+    "subdir": "linux-64", 
+    "version": "1.14"
+  }, 
   "picard_metapkg-1-1.tar.bz2": {
     "arch": "x86_64", 
     "build": "1", 
