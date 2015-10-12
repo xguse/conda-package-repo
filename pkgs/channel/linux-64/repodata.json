@@ -592,6 +592,20 @@
       "subdir": "linux-64",
       "version": "1"
     },
+    "picard_metapkg-1-2.tar.bz2": {
+      "build": "2",
+      "build_number": 2,
+      "depends": [
+        "picard",
+        "picard_wrap"
+      ],
+      "md5": "4fafa1f418df4cd9fbd1c8c93b12ddfe",
+      "name": "picard_metapkg",
+      "sig": null,
+      "size": 484,
+      "subdir": "linux-64",
+      "version": "1"
+    },
     "picard_wrap-0.0.1rc1-py27_0.tar.bz2": {
       "build": "py27_0",
       "build_number": 0,
