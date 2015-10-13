@@ -547,162 +547,20 @@
       "subdir": "linux-64",
       "version": "1.0.10"
     },
-    "picard-1.14-3.tar.bz2": {
-      "build": "3",
-      "build_number": 3,
-      "depends": [],
-      "license": "MIT",
-      "md5": "0012b1d2bd4b735fe2f4b8a147f49609",
-      "name": "picard",
-      "sig": null,
-      "size": 6256310,
-      "subdir": "linux-64",
-      "version": "1.14"
-    },
-    "picard-1.14-py27_1.tar.bz2": {
-      "build": "py27_1",
-      "build_number": 1,
-      "depends": [
-        "click",
-        "picard_wrap",
-        "python 2.7*"
-      ],
-      "license": "MIT",
-      "md5": "dc4ae4ad58a23e1a6e902091c360a8f8",
-      "name": "picard",
-      "sig": null,
-      "size": 6256690,
-      "subdir": "linux-64",
-      "version": "1.14"
-    },
-    "picard-1.14-py27_2.tar.bz2": {
-      "build": "py27_2",
-      "build_number": 2,
-      "depends": [
-        "click",
-        "python 2.7*"
-      ],
-      "license": "MIT",
-      "md5": "33b49e58a17f9ed9e5b8025f7e03c93a",
-      "name": "picard",
-      "sig": null,
-      "size": 6256521,
-      "subdir": "linux-64",
-      "version": "1.14"
-    },
-    "picard-1.140-4.tar.bz2": {
-      "build": "4",
-      "build_number": 4,
-      "depends": [],
-      "license": "MIT",
-      "md5": "7b78e4834304c2b01720126df9db5e2f",
-      "name": "picard",
-      "sig": null,
-      "size": 6256526,
-      "subdir": "linux-64",
-      "version": "1.140"
-    },
-    "picard_metapkg-1-1.tar.bz2": {
-      "build": "1",
-      "build_number": 1,
-      "depends": [
-        "picard",
-        "picard_wrap"
-      ],
-      "md5": "84f6f89c5c3583675edafdc18d5eae2e",
-      "name": "picard_metapkg",
-      "sig": null,
-      "size": 480,
-      "subdir": "linux-64",
-      "version": "1"
-    },
-    "picard_metapkg-1-2.tar.bz2": {
-      "build": "2",
-      "build_number": 2,
-      "depends": [
-        "picard",
-        "picard_wrap"
-      ],
-      "md5": "23a4c2181cec9018de4b503bc9297e54",
-      "name": "picard_metapkg",
-      "sig": null,
-      "size": 478,
-      "subdir": "linux-64",
-      "version": "1"
-    },
-    "picard_metapkg-1-3.tar.bz2": {
-      "build": "3",
-      "build_number": 3,
-      "depends": [
-        "picard",
-        "picard_wrap"
-      ],
-      "md5": "a366979bfceb28dcda06b679ce0a1ee9",
-      "name": "picard_metapkg",
-      "sig": null,
-      "size": 480,
-      "subdir": "linux-64",
-      "version": "1"
-    },
-    "picard_mpkg-1-py27_0.tar.bz2": {
+    "picard-meta-1-py27_0.tar.bz2": {
       "build": "py27_0",
       "build_number": 0,
       "depends": [
         "picard >=1.140",
-        "picard_wrap >=0.0.1rc3",
+        "pycard >=0.0.1",
         "python 2.7*"
       ],
-      "md5": "e1defc166610f4395ee953b38382d0a5",
-      "name": "picard_mpkg",
+      "md5": "7c34ed36a27b0166a81530729f83355b",
+      "name": "picard-meta",
       "sig": null,
-      "size": 670,
+      "size": 667,
       "subdir": "linux-64",
       "version": "1"
-    },
-    "picard_wrap-0.0.1rc1-py27_0.tar.bz2": {
-      "build": "py27_0",
-      "build_number": 0,
-      "depends": [
-        "click",
-        "python 2.7*"
-      ],
-      "license": "MIT",
-      "md5": "2e231ec145238270138fb83d8bd80090",
-      "name": "picard_wrap",
-      "sig": null,
-      "size": 54830,
-      "subdir": "linux-64",
-      "version": "0.0.1rc1"
-    },
-    "picard_wrap-0.0.1rc2-py27_0.tar.bz2": {
-      "build": "py27_0",
-      "build_number": 0,
-      "depends": [
-        "click",
-        "python 2.7*"
-      ],
-      "license": "MIT",
-      "md5": "ffb6c6cc3d9ae8c71495aa68dc112a04",
-      "name": "picard_wrap",
-      "sig": null,
-      "size": 55001,
-      "subdir": "linux-64",
-      "version": "0.0.1rc2"
-    },
-    "picard_wrap-0.0.1rc3-py27_0.tar.bz2": {
-      "build": "py27_0",
-      "build_number": 0,
-      "depends": [
-        "click",
-        "python 2.7*"
-      ],
-      "license": "MIT",
-      "md5": "2ae0d10a34c887e87f0439e999c35636",
-      "name": "picard_wrap",
-      "sig": null,
-      "size": 6858,
-      "subdir": "linux-64",
-      "version": "0.0.1rc3"
     },
     "pigz-2.3.3-1.tar.bz2": {
       "build": "1",
@@ -785,6 +643,21 @@
       "name": "pybioclim",
       "sig": null,
       "size": 6728190,
+      "subdir": "linux-64",
+      "version": "0.0.1"
+    },
+    "pycard-0.0.1-py27_0.tar.bz2": {
+      "build": "py27_0",
+      "build_number": 0,
+      "depends": [
+        "click",
+        "python 2.7*"
+      ],
+      "license": "MIT",
+      "md5": "089f590ed2fa672342b2d449d8b3da98",
+      "name": "pycard",
+      "sig": null,
+      "size": 6824,
       "subdir": "linux-64",
       "version": "0.0.1"
     },
