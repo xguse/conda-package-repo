@@ -547,6 +547,18 @@
       "subdir": "linux-64",
       "version": "1.0.10"
     },
+    "picard-1.140-4.tar.bz2": {
+      "build": "4",
+      "build_number": 4,
+      "depends": [],
+      "license": "MIT",
+      "md5": "b92ff660e9c0d94efd270e181bb22050",
+      "name": "picard",
+      "sig": null,
+      "size": 6256709,
+      "subdir": "linux-64",
+      "version": "1.140"
+    },
     "picard-meta-1-py27_0.tar.bz2": {
       "build": "py27_0",
       "build_number": 0,
