@@ -663,13 +663,14 @@
       "build_number": 0,
       "depends": [
         "click",
+        "pytest",
         "python 2.7*"
       ],
       "license": "MIT",
-      "md5": "089f590ed2fa672342b2d449d8b3da98",
+      "md5": "1b6731176bf4e1c58e56af70ed22a4fe",
       "name": "pycard",
       "sig": null,
-      "size": 6824,
+      "size": 7403,
       "subdir": "linux-64",
       "version": "0.0.1"
     },
@@ -919,6 +920,21 @@
       "subdir": "linux-64",
       "version": "0.0.1"
     },
+    "sphinxcontrib-napoleon-0.2.8-py27_0.tar.bz2": {
+      "build": "py27_0",
+      "build_number": 0,
+      "depends": [
+        "python 2.7*",
+        "sphinx 1.2*"
+      ],
+      "license": "BSD",
+      "md5": "2ba6d8aefd8395b87c084ba22ed6f98f",
+      "name": "sphinxcontrib-napoleon",
+      "sig": null,
+      "size": 33058,
+      "subdir": "linux-64",
+      "version": "0.2.8"
+    },
     "tabulate-0.7.5-py27_0.tar.bz2": {
       "build": "py27_0",
       "build_number": 0,
@@ -961,6 +977,22 @@
       "size": 15160474,
       "subdir": "linux-64",
       "version": "2.1.0"
+    },
+    "tox-1.5.0-py27_1.tar.bz2": {
+      "build": "py27_1",
+      "build_number": 1,
+      "depends": [
+        "py",
+        "python 2.7*",
+        "virtualenv"
+      ],
+      "license": "MIT",
+      "md5": "e68725b89b4dd85050a6084844cd8129",
+      "name": "tox",
+      "sig": null,
+      "size": 68860,
+      "subdir": "linux-64",
+      "version": "1.5.0"
     },
     "traitlets-4.0.0-py27_0.tar.bz2": {
       "build": "py27_0",
