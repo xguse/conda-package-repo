@@ -798,12 +798,12 @@
       "python 2.7*"
     ], 
     "license": "MIT", 
-    "md5": "1b6731176bf4e1c58e56af70ed22a4fe", 
-    "mtime": 1444769787.7078207, 
+    "md5": "a9811a533687dd32074d5de62e7c75f4", 
+    "mtime": 1444830932.9079952, 
     "name": "pycard", 
     "platform": "linux", 
     "sig": null, 
-    "size": 7403, 
+    "size": 7426, 
     "subdir": "linux-64", 
     "version": "0.0.1"
   }, 
