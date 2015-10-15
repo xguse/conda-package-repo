@@ -313,6 +313,26 @@
       "subdir": "linux-64",
       "version": "5.2.0"
     },
+    "geopandas-0.1.1-py27_0.tar.bz2": {
+      "build": "py27_0",
+      "build_number": 0,
+      "depends": [
+        "descartes",
+        "fiona",
+        "pandas",
+        "pyproj",
+        "python 2.7*",
+        "rtree",
+        "shapely"
+      ],
+      "license": "BSD",
+      "md5": "6af6b885ac1003114b1614a61d63c2be",
+      "name": "geopandas",
+      "sig": null,
+      "size": 42611,
+      "subdir": "linux-64",
+      "version": "0.1.1"
+    },
     "gffutils-0.8.5-py27_0.tar.bz2": {
       "build": "py27_0",
       "build_number": 0,
@@ -856,6 +876,21 @@
       "size": 17392,
       "subdir": "linux-64",
       "version": "0.1.2"
+    },
+    "rtree-0.8.2-py27_0.tar.bz2": {
+      "build": "py27_0",
+      "build_number": 0,
+      "depends": [
+        "python 2.7*",
+        "setuptools"
+      ],
+      "license": "GNU Library or Lesser General Public License (LGPL)",
+      "md5": "69da3e719cd7b11a8ca34cf739efeb37",
+      "name": "rtree",
+      "sig": null,
+      "size": 26449,
+      "subdir": "linux-64",
+      "version": "0.8.2"
     },
     "samtools-1.2-1.tar.bz2": {
       "build": "1",
