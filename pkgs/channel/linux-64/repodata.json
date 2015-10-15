@@ -885,10 +885,10 @@
         "setuptools"
       ],
       "license": "GNU Library or Lesser General Public License (LGPL)",
-      "md5": "69da3e719cd7b11a8ca34cf739efeb37",
+      "md5": "d7b2e13e2c610aaeabd999c2963edd08",
       "name": "rtree",
       "sig": null,
-      "size": 26449,
+      "size": 26430,
       "subdir": "linux-64",
       "version": "0.8.2"
     },
