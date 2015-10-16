@@ -567,6 +567,18 @@
       "subdir": "linux-64",
       "version": "1.0.10"
     },
+    "parallel-20150922-1.tar.bz2": {
+      "build": "1",
+      "build_number": 1,
+      "depends": [],
+      "license": "GPL3",
+      "md5": "d04750038b415394fe0bd3a959ba58f8",
+      "name": "parallel",
+      "sig": null,
+      "size": 973312,
+      "subdir": "linux-64",
+      "version": "20150922"
+    },
     "picard-1.140-4.tar.bz2": {
       "build": "4",
       "build_number": 4,
