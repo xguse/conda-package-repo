@@ -422,6 +422,18 @@
       "subdir": "linux-64",
       "version": "1.0.1"
     },
+    "glibc-2.22-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [],
+      "license": "LGPL",
+      "md5": "cc3238b1097762135424f4efeb125ce9",
+      "name": "glibc",
+      "sig": null,
+      "size": 2408370,
+      "subdir": "linux-64",
+      "version": "2.22"
+    },
     "gnureadline-6.2.5-py27_0.tar.bz2": {
       "build": "py27_0",
       "build_number": 0,
