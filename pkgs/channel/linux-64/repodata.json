@@ -53,6 +53,18 @@
       "subdir": "linux-64",
       "version": "2.4.0"
     },
+    "bayescan-2.1-1.tar.bz2": {
+      "build": "1",
+      "build_number": 1,
+      "depends": [],
+      "license": "GPL3",
+      "md5": "f8c45cfaff6c4cfe6c9b88af2bfea015",
+      "name": "bayescan",
+      "sig": null,
+      "size": 822190,
+      "subdir": "linux-64",
+      "version": "2.1"
+    },
     "bcftools-1.2-1.tar.bz2": {
       "build": "1",
       "build_number": 1,
