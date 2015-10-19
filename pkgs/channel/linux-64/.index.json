@@ -1316,12 +1316,12 @@
       "htslib"
     ], 
     "license": "GNU LGPL", 
-    "md5": "9819ab57eeb2f92acd20323c069cdb90", 
-    "mtime": 1444333005.8378415, 
+    "md5": "b3e588f61f8b92fbcb8a5451f171a9a0", 
+    "mtime": 1445264128.8851285, 
     "name": "vcftools", 
     "platform": "linux", 
     "sig": null, 
-    "size": 3765560, 
+    "size": 3765609, 
     "subdir": "linux-64", 
     "version": "0.1.14"
   }, 
