@@ -548,6 +548,21 @@
     "subdir": "linux-64", 
     "version": "6.2.5"
   }, 
+  "gsl-1.16-1.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "1", 
+    "build_number": 1, 
+    "depends": [], 
+    "license": "GPL 3", 
+    "md5": "05065791365aeab8aebcd95c5e8ee5da", 
+    "mtime": 1445268795.8065946, 
+    "name": "gsl", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 7204850, 
+    "subdir": "linux-64", 
+    "version": "1.16"
+  }, 
   "hmmer-3.1b2-1.tar.bz2": {
     "arch": "x86_64", 
     "build": "1", 
