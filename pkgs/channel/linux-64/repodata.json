@@ -157,6 +157,20 @@
       "subdir": "linux-64",
       "version": "2.2.6"
     },
+    "bowtie2-2.2.6-py35_0.tar.bz2": {
+      "build": "py35_0",
+      "build_number": 0,
+      "depends": [
+        "python 3.5*"
+      ],
+      "license": "GLP3 License",
+      "md5": "248c391ec7cf36bf2b507e1bf2b312a3",
+      "name": "bowtie2",
+      "sig": null,
+      "size": 9178264,
+      "subdir": "linux-64",
+      "version": "2.2.6"
+    },
     "bumpversion-0.5.3-py27_0.tar.bz2": {
       "build": "py27_0",
       "build_number": 0,
@@ -1083,6 +1097,22 @@
       "size": 48176,
       "subdir": "linux-64",
       "version": "0.9.0"
+    },
+    "snakemake-3.4.2-0.tar.bz2": {
+      "build": "0",
+      "build_number": 0,
+      "depends": [
+        "docutils",
+        "python >=3.3",
+        "pyyaml"
+      ],
+      "license": "MIT License",
+      "md5": "635785cc6b797ee3214f68f4e33927e0",
+      "name": "snakemake",
+      "sig": null,
+      "size": 121375,
+      "subdir": "linux-64",
+      "version": "3.4.2"
     },
     "spartan-0.0.1-20151001.3.tar.bz2": {
       "build": "20151001.3",
