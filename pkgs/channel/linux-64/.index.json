@@ -188,6 +188,40 @@
     "subdir": "linux-64", 
     "version": "2.2.6"
   }, 
+  "bumpversion-0.5.3-py27_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "python 2.7*"
+    ], 
+    "license": "MIT License", 
+    "md5": "dc44a42df5dc13568927aeda1cad0ba0", 
+    "mtime": 1445369240.8094342, 
+    "name": "bumpversion", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 29951, 
+    "subdir": "linux-64", 
+    "version": "0.5.3"
+  }, 
+  "bumpversion-0.5.3-py35_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py35_0", 
+    "build_number": 0, 
+    "depends": [
+      "python 3.5*"
+    ], 
+    "license": "MIT License", 
+    "md5": "7f85b27279edc600be83d4925c3faca5", 
+    "mtime": 1445369258.503405, 
+    "name": "bumpversion", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 29725, 
+    "subdir": "linux-64", 
+    "version": "0.5.3"
+  }, 
   "bwa-0.7.12-1.tar.bz2": {
     "arch": "x86_64", 
     "build": "1", 
@@ -251,6 +285,23 @@
     "platform": "linux", 
     "sig": null, 
     "size": 91621, 
+    "subdir": "linux-64", 
+    "version": "5.1"
+  }, 
+  "click-5.1-py35_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py35_0", 
+    "build_number": 0, 
+    "depends": [
+      "python 3.5*"
+    ], 
+    "license": "BSD License", 
+    "md5": "92ea4e5fa9b21c538b2bc5ceef8b9cd9", 
+    "mtime": 1445365423.0555148, 
+    "name": "click", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 93740, 
     "subdir": "linux-64", 
     "version": "5.1"
   }, 
