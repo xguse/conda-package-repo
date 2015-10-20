@@ -820,6 +820,42 @@
     "subdir": "linux-64", 
     "version": "1"
   }, 
+  "picard-meta-20151020-py27_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "picard >=1.140", 
+      "pycard >=0.0.2", 
+      "python 2.7*"
+    ], 
+    "md5": "c2367bff7f9286b35eb6d902afe39f23", 
+    "mtime": 1445371975.3490882, 
+    "name": "picard-meta", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 681, 
+    "subdir": "linux-64", 
+    "version": "20151020"
+  }, 
+  "picard-meta-20151020-py35_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py35_0", 
+    "build_number": 0, 
+    "depends": [
+      "picard >=1.140", 
+      "pycard >=0.0.2", 
+      "python 3.5*"
+    ], 
+    "md5": "7dc0228b597cbf73fe50150752f71902", 
+    "mtime": 1445371986.5761511, 
+    "name": "picard-meta", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 682, 
+    "subdir": "linux-64", 
+    "version": "20151020"
+  }, 
   "pigz-2.3.3-1.tar.bz2": {
     "arch": "x86_64", 
     "build": "1", 
@@ -940,6 +976,44 @@
     "size": 7426, 
     "subdir": "linux-64", 
     "version": "0.0.1"
+  }, 
+  "pycard-0.0.2-py27_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "click", 
+      "pytest", 
+      "python 2.7*"
+    ], 
+    "license": "MIT", 
+    "md5": "f68f16b763378d01476b0ca87ba298de", 
+    "mtime": 1445371940.1211789, 
+    "name": "pycard", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 7628, 
+    "subdir": "linux-64", 
+    "version": "0.0.2"
+  }, 
+  "pycard-0.0.2-py35_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py35_0", 
+    "build_number": 0, 
+    "depends": [
+      "click", 
+      "pytest", 
+      "python 3.5*"
+    ], 
+    "license": "MIT", 
+    "md5": "d6a25a200c14284364affe1a6b18dc8c", 
+    "mtime": 1445371922.7172322, 
+    "name": "pycard", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 7664, 
+    "subdir": "linux-64", 
+    "version": "0.0.2"
   }, 
   "pyensembl-0.7.0-py27_0.tar.bz2": {
     "arch": "x86_64", 
