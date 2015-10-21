@@ -583,6 +583,21 @@
       "subdir": "linux-64",
       "version": "0.8"
     },
+    "ipdb-0.8-py35_2.tar.bz2": {
+      "build": "py35_2",
+      "build_number": 2,
+      "depends": [
+        "ipython",
+        "python 3.5*"
+      ],
+      "license": "GPL",
+      "md5": "0cbd4b217dd2a74b2c4bac6a92fd2288",
+      "name": "ipdb",
+      "sig": null,
+      "size": 10675,
+      "subdir": "linux-64",
+      "version": "0.8"
+    },
     "luigi-1.3.0-py27_1.tar.bz2": {
       "build": "py27_1",
       "build_number": 1,
