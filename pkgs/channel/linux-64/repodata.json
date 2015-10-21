@@ -516,6 +516,20 @@
       "subdir": "linux-64",
       "version": "6.2.5"
     },
+    "gnureadline-6.2.5-py35_0.tar.bz2": {
+      "build": "py35_0",
+      "build_number": 0,
+      "depends": [
+        "python 3.5*"
+      ],
+      "license": "GNU Public License (GPL)",
+      "md5": "0f06c4de69a78d21929d7fdf030916c1",
+      "name": "gnureadline",
+      "sig": null,
+      "size": 287659,
+      "subdir": "linux-64",
+      "version": "6.2.5"
+    },
     "gsl-1.16-1.tar.bz2": {
       "build": "1",
       "build_number": 1,
