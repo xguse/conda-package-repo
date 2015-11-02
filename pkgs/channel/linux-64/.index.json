@@ -419,6 +419,27 @@
     "subdir": "linux-64", 
     "version": "0.11.3"
   }, 
+  "faststructure-1.0-py35_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py35_0", 
+    "build_number": 0, 
+    "depends": [
+      "cython", 
+      "gsl", 
+      "numpy", 
+      "python 3.5*", 
+      "scipy"
+    ], 
+    "license": "MIT", 
+    "md5": "38e30aa1736c35f832430199f8452eed", 
+    "mtime": 1445872973.2978451, 
+    "name": "faststructure", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 434375, 
+    "subdir": "linux-64", 
+    "version": "1.0"
+  }, 
   "fuzzywuzzy-0.6.1-py27_0.tar.bz2": {
     "arch": "x86_64", 
     "build": "py27_0", 
@@ -1329,6 +1350,25 @@
     "size": 9849, 
     "subdir": "linux-64", 
     "version": "0.0.2"
+  }, 
+  "setuptools_cython-0.2.1-py27_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "cython", 
+      "python 2.7*", 
+      "setuptools"
+    ], 
+    "license": "http://www.gnu.org/licenses/gpl-2.0.html", 
+    "md5": "5ad7bc69bc585250a9e15fd8ce07af8e", 
+    "mtime": 1445958663.699586, 
+    "name": "setuptools_cython", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 4546, 
+    "subdir": "linux-64", 
+    "version": "0.2.1"
   }, 
   "smmap-0.9.0-py27_0.tar.bz2": {
     "arch": "x86_64", 
