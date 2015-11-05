@@ -1152,6 +1152,26 @@
     "subdir": "linux-64", 
     "version": "3.0.6"
   }, 
+  "pysam-0.8.3-py27_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "cython", 
+      "htslib", 
+      "python 2.7*", 
+      "samtools"
+    ], 
+    "license": "MITpysam", 
+    "md5": "1323de4be106c7b5ba27429117de1c9f", 
+    "mtime": 1446742134.9300172, 
+    "name": "pysam", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 11446402, 
+    "subdir": "linux-64", 
+    "version": "0.8.3"
+  }, 
   "pyshp-1.2.3-py27_0.tar.bz2": {
     "arch": "x86_64", 
     "build": "py27_0", 
