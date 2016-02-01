@@ -1224,20 +1224,6 @@
       "subdir": "linux-64",
       "version": "3.2.2"
     },
-    "readline-6.2.5-1.tar.bz2": {
-      "build": "1",
-      "build_number": 1,
-      "depends": [
-        "ncurses >=5.9"
-      ],
-      "license": "GPL 3",
-      "md5": "e4261d40bb94a410369f6c32c50d3362",
-      "name": "readline",
-      "sig": null,
-      "size": 705977,
-      "subdir": "linux-64",
-      "version": "6.2.5"
-    },
     "recipy-0.1.2-py27_0.tar.bz2": {
       "build": "py27_0",
       "build_number": 0,
