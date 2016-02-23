@@ -36,6 +36,7 @@ If I can accommodate you, I will.
 
 Here are the files hosted for various architectures:
 
+- [noarch](pkgs/channel/noarch)
 - [linux-32](pkgs/channel/linux-32)
 - [linux-64](pkgs/channel/linux-64)
 - [osx-64](pkgs/channel/osx-64)
