@@ -1,4 +1,71 @@
 {
   "info": {},
-  "packages": {}
+  "packages": {
+    "munch-2.0.2-py27_0.tar.bz2": {
+      "build": "py27_0",
+      "build_number": 0,
+      "depends": [
+        "python 2.7*"
+      ],
+      "license": "MIT License",
+      "md5": "3c90a45dc07ad34e5332b552763b895f",
+      "name": "munch",
+      "sig": null,
+      "size": 13470,
+      "subdir": "osx-64",
+      "version": "2.0.2"
+    },
+    "pyfasta-0.5.2-py27_0.tar.bz2": {
+      "build": "py27_0",
+      "build_number": 0,
+      "depends": [
+        "numpy",
+        "python 2.7*"
+      ],
+      "license": "MIT",
+      "md5": "0beee28cc352f1dcb4628a1f0504f609",
+      "name": "pyfasta",
+      "sig": null,
+      "size": 21742,
+      "subdir": "osx-64",
+      "version": "0.5.2"
+    },
+    "sanitize-0.0.2-py27_0.tar.bz2": {
+      "build": "py27_0",
+      "build_number": 0,
+      "depends": [
+        "python 2.7*"
+      ],
+      "license": "Custom",
+      "md5": "4e804b498b8c027014378f347214845e",
+      "name": "sanitize",
+      "sig": null,
+      "size": 9861,
+      "subdir": "osx-64",
+      "version": "0.0.2"
+    },
+    "spartan-0.0.1-20151001.3.tar.bz2": {
+      "build": "20151001.3",
+      "build_number": 2,
+      "depends": [
+        "arrow",
+        "docopt",
+        "gffutils",
+        "munch",
+        "numpy",
+        "pandas",
+        "pyfasta",
+        "python 2.7*",
+        "sanitize ==0.0.2",
+        "xlrd"
+      ],
+      "license": "MIT License",
+      "md5": "deb0ed1c30a3eb4bfb564a3f03fc8b21",
+      "name": "spartan",
+      "sig": null,
+      "size": 52566,
+      "subdir": "osx-64",
+      "version": "0.0.1"
+    }
+  }
 }

@@ -1,1 +1,80 @@
-{}
+{
+  "munch-2.0.2-py27_0.tar.bz2": {
+    "arch": "x86", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "python 2.7*"
+    ], 
+    "license": "MIT License", 
+    "md5": "112011597e13d5ce6035c008528378d8", 
+    "mtime": 1456268043.3205378, 
+    "name": "munch", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 13453, 
+    "subdir": "linux-32", 
+    "version": "2.0.2"
+  }, 
+  "pyfasta-0.5.2-py27_0.tar.bz2": {
+    "arch": "x86", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "numpy", 
+      "python 2.7*"
+    ], 
+    "license": "MIT", 
+    "md5": "dae329f6375cde7bd6be291b1dee94c7", 
+    "mtime": 1456268582.5250664, 
+    "name": "pyfasta", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 21730, 
+    "subdir": "linux-32", 
+    "version": "0.5.2"
+  }, 
+  "sanitize-0.0.2-py27_0.tar.bz2": {
+    "arch": "x86", 
+    "build": "py27_0", 
+    "build_number": 0, 
+    "depends": [
+      "python 2.7*"
+    ], 
+    "license": "Custom", 
+    "md5": "9fd695bd037828af77513054fd38f842", 
+    "mtime": 1456268067.8513498, 
+    "name": "sanitize", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 9852, 
+    "subdir": "linux-32", 
+    "version": "0.0.2"
+  }, 
+  "spartan-0.0.1-20151001.3.tar.bz2": {
+    "arch": "x86", 
+    "build": "20151001.3", 
+    "build_number": 2, 
+    "depends": [
+      "arrow", 
+      "docopt", 
+      "gffutils", 
+      "munch", 
+      "numpy", 
+      "pandas", 
+      "pyfasta", 
+      "python 2.7*", 
+      "sanitize ==0.0.2", 
+      "xlrd"
+    ], 
+    "license": "MIT License", 
+    "md5": "1ba3ded01a81b469511b248087eca75a", 
+    "mtime": 1456268008.066038, 
+    "name": "spartan", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 52595, 
+    "subdir": "linux-32", 
+    "version": "0.0.1"
+  }
+}
