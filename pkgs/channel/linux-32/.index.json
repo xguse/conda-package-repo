@@ -76,5 +76,31 @@
     "size": 52595, 
     "subdir": "linux-32", 
     "version": "0.0.1"
+  }, 
+  "spartan-0.0.1-20160223.1.tar.bz2": {
+    "arch": "x86", 
+    "build": "20160223.1", 
+    "build_number": 1, 
+    "depends": [
+      "arrow", 
+      "docopt", 
+      "gffutils", 
+      "munch", 
+      "numpy", 
+      "pandas", 
+      "pyfasta", 
+      "python 2.7*", 
+      "sanitize ==0.0.2", 
+      "xlrd"
+    ], 
+    "license": "MIT License", 
+    "md5": "6099b53ae919492e5d7fad3127d4fb95", 
+    "mtime": 1456269611.7795305, 
+    "name": "spartan", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 54959, 
+    "subdir": "linux-32", 
+    "version": "0.0.1"
   }
 }

@@ -66,6 +66,29 @@
       "size": 52566,
       "subdir": "osx-64",
       "version": "0.0.1"
+    },
+    "spartan-0.0.1-20160223.1.tar.bz2": {
+      "build": "20160223.1",
+      "build_number": 1,
+      "depends": [
+        "arrow",
+        "docopt",
+        "gffutils",
+        "munch",
+        "numpy",
+        "pandas",
+        "pyfasta",
+        "python 2.7*",
+        "sanitize ==0.0.2",
+        "xlrd"
+      ],
+      "license": "MIT License",
+      "md5": "8f2ac606dac45acdcc35b196ba996eec",
+      "name": "spartan",
+      "sig": null,
+      "size": 54932,
+      "subdir": "osx-64",
+      "version": "0.0.1"
     }
   }
 }
