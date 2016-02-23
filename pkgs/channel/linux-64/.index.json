@@ -1428,37 +1428,6 @@
     "subdir": "linux-64", 
     "version": "0.1.3"
   }, 
-  "r-recommended-3.2.2-r3.2.2_0.tar.bz2": {
-    "arch": "x86_64", 
-    "build": "r3.2.2_0", 
-    "build_number": 0, 
-    "depends": [
-      "r 3.2.2", 
-      "r-boot", 
-      "r-class", 
-      "r-cluster", 
-      "r-codetools", 
-      "r-foreign", 
-      "r-kernsmooth", 
-      "r-lattice", 
-      "r-mass", 
-      "r-matrix", 
-      "r-mgcv", 
-      "r-nlme", 
-      "r-nnet", 
-      "r-rpart", 
-      "r-spatial", 
-      "r-survival"
-    ], 
-    "md5": "0ccd2a5676193e6471e74f8c929d0dd8", 
-    "mtime": 1444068266.5813422, 
-    "name": "r-recommended", 
-    "platform": "linux", 
-    "sig": null, 
-    "size": 745, 
-    "subdir": "linux-64", 
-    "version": "3.2.2"
-  }, 
   "recipy-0.1.2-py27_0.tar.bz2": {
     "arch": "x86_64", 
     "build": "py27_0", 
@@ -1630,7 +1599,7 @@
   "spartan-0.0.1-20151001.3.tar.bz2": {
     "arch": "x86_64", 
     "build": "20151001.3", 
-    "build_number": 1, 
+    "build_number": 2, 
     "depends": [
       "arrow", 
       "docopt", 
@@ -1644,12 +1613,12 @@
       "xlrd"
     ], 
     "license": "MIT License", 
-    "md5": "3cf54ca9467cef44300d51f3ba1ea6bc", 
-    "mtime": 1443808304.3964922, 
+    "md5": "3e638cbfeb9734e0fa267b6070513e7b", 
+    "mtime": 1456263955.9755235, 
     "name": "spartan", 
     "platform": "linux", 
     "sig": null, 
-    "size": 52698, 
+    "size": 52542, 
     "subdir": "linux-64", 
     "version": "0.0.1"
   }, 
