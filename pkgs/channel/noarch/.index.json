@@ -35,10 +35,10 @@
     "subdir": "linux-64", 
     "version": "0.4.2"
   }, 
-  "spartan-0.0.1-py_1.tar.bz2": {
-    "arch": null, 
-    "build": "py_1", 
-    "build_number": 1, 
+  "spartan-0.0.1-20151001.3.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "20151001.3", 
+    "build_number": 2, 
     "depends": [
       "arrow", 
       "docopt", 
@@ -47,18 +47,18 @@
       "numpy", 
       "pandas", 
       "pyfasta", 
-      "python", 
+      "python 2.7*", 
       "sanitize ==0.0.2", 
       "xlrd"
     ], 
     "license": "MIT License", 
-    "md5": "6646e3275f31afd31c9318787ae33a3d", 
-    "mtime": 1443807672.6407526, 
+    "md5": "3e638cbfeb9734e0fa267b6070513e7b", 
+    "mtime": 1456263955.9755235, 
     "name": "spartan", 
-    "platform": null, 
+    "platform": "linux", 
     "sig": null, 
-    "size": 105668, 
-    "subdir": "noarch", 
+    "size": 52542, 
+    "subdir": "linux-64", 
     "version": "0.0.1"
   }
 }

@@ -1596,32 +1596,6 @@
     "subdir": "linux-64", 
     "version": "3.4.2"
   }, 
-  "spartan-0.0.1-20151001.3.tar.bz2": {
-    "arch": "x86_64", 
-    "build": "20151001.3", 
-    "build_number": 2, 
-    "depends": [
-      "arrow", 
-      "docopt", 
-      "gffutils", 
-      "munch", 
-      "numpy", 
-      "pandas", 
-      "pyfasta", 
-      "python 2.7*", 
-      "sanitize ==0.0.2", 
-      "xlrd"
-    ], 
-    "license": "MIT License", 
-    "md5": "3e638cbfeb9734e0fa267b6070513e7b", 
-    "mtime": 1456263955.9755235, 
-    "name": "spartan", 
-    "platform": "linux", 
-    "sig": null, 
-    "size": 52542, 
-    "subdir": "linux-64", 
-    "version": "0.0.1"
-  }, 
   "sphinxcontrib-napoleon-0.2.8-py27_0.tar.bz2": {
     "arch": "x86_64", 
     "build": "py27_0", 

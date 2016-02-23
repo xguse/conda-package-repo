@@ -3,6 +3,7 @@ all: index dir_listings
 
 index:
 	conda index \
+	pkgs/channel/noarch \
 	pkgs/channel/linux-32 \
 	pkgs/channel/linux-64 \
 	pkgs/channel/osx-64 \
